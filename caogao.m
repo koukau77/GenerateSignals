@@ -1,0 +1,1 @@
+[x_signal, signals_matrix, random_time] = Signals_STFT(1)
